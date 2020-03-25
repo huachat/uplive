@@ -1,2 +1,2 @@
 # uplive
-uplive.online
+www.uplive.online
